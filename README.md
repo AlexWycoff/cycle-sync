@@ -130,7 +130,7 @@ CC BY-NC-SA 3.0 license; see https://www.eth3d.net for the full terms.
 
 **Option A: courtyard only (recommended).** Download `courtyard.zip` from this
 repository's releases page:
-https://github.com/YOUR-USERNAME/YOUR-REPO/releases
+https://github.com/AlexWycoff/cycle-sync/releases
 
 **Option B: the full ETH3D archive.** Download `multi_view_training_dslr_undistorted.7z`
 from https://www.eth3d.net/datasets. It contains all training scenes and is much larger;
